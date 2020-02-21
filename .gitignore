@@ -3,3 +3,8 @@ scala/project
 **/target
 **/*.iml
 **/*.pyc
+**/.vscode
+**/bin
+**/obj
+**/.vs
+**/*.user
